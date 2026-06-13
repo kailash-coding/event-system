@@ -12,7 +12,7 @@ export default defineConfig({
       },
       '/uploads': {
         target: 'http://localhost:5050',
-        changeOrigin: true,
+        changeOrigin: true, 
       },
     },
   },
