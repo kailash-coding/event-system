@@ -1,6 +1,6 @@
 EventManager – Full‑Stack Event Management System
 
-Overview
+Overview 
 EventManager lets customers discover events, register, download QR‑coded PDF tickets, and post reviews, while organizers create/manage events, see participants, export CSVs, and perform real‑time check‑ins.
 
 Tech Stack
